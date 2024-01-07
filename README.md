@@ -1,0 +1,1 @@
+This is a calculator I practiced I got major help from youTube but its a learning curve its nothing major it is as simple as it can be really but I am going to build one that is more advanced the aim of this app was to practice my javaScript skills
